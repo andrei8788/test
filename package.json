@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/andrei8788/test.git"
+    "type": "git"
+   // "url": "https://github.com/andrei8788/test.git"
   },
   "author": "",
   "license": "ISC",
